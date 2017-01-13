@@ -1,0 +1,30 @@
+{
+    "channels": [
+        {
+            "channelId": "",
+            "head": {
+                "meta": {
+                    "keywords": "将军之战场争锋",
+                    "description": "",
+                    "author": ""
+                },
+                "title": "将军之战场争锋",
+                "favicon": ""
+            },
+            "footer": {
+                "copyright": "Copyright :copyright: 2012 Hoolai Games. All Rights Reserved",
+                "address": "互爱互动（北京）科技有限公司版权所有",
+                "icpLicense": "京ICP备11034336号-1 网络文化经营许可证-京网文[2014]0904-204号 京公网安备11010502022348"
+            },
+            "content": {
+                "bgImg": "./img/tushen.jpg",
+                "baiduAnalytic": "1ebe4105e4c8d784d1cf0a90d049e526",
+                "download": {
+                    "androidUrl": "http://1011043.1251009720.cdn.myqcloud.com/1251009720/1011043/ttxy_agent_jrtt.apk",
+                    "iosUrl": "http://www.baidu.com"
+                },
+                "comment": []
+            }
+        }
+    ]
+}
